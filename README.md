@@ -148,3 +148,11 @@ Only those chunks are sent to Gemini for answer generation
 ### 🧠 Same embedding space for data + queries
 
 ### 🧩 Clean separation of responsibilities
+
+---
+
+### ➡️ Next step: Start the Backend
+Go to the:
+```bash
+https://github.com/rohsingh26/AI_Assignment-Knowledgeinbox-backend
+```
